@@ -17,7 +17,7 @@
 
 
 ## Активация
-В файл ***package.json*** добавлена команда *Detect dead code*.
+В файл ***package.json*** добавлена команда *Copy and Save code*.
 ```Typescript
 commands": [
       {
