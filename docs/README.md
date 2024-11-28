@@ -1,4 +1,4 @@
-# File with copy of code creator
+# File with copy of code creator (Author Emelyanov Alexey M3100)
 
 ## Описание
 Плагин реализован на **TypeScript** с использование **API Visual Studio Code**. Предназначен в первую очередь для проектов **Visual Studio Code** на **C++**. Он копирует выделенный код и сохраняет его в новый файл
